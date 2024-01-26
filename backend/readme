@@ -1,0 +1,4 @@
+cd cart-app-react-native
+cd backend
+npm install
+node index.js
