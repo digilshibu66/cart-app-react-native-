@@ -1,1 +1,3 @@
-
+cd flip
+npm install
+npx expo start
